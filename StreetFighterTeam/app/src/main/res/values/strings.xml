@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Street Fighter Team</string>
+    <string name="title_power">Poder</string>
+    <string name="title_health">Saúde</string>
+    <string name="title_mobility">Mobilidade</string>
+    <string name="title_techniques">Técnica</string>
+    <string name="title_range">Alcance</string>
+</resources>
